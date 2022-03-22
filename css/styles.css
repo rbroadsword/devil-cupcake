@@ -1,0 +1,43 @@
+body {
+  background-color: red; 
+}
+
+.center {
+  display: block; 
+  text-align: center; 
+}
+
+h1 { 
+  font-size: 4rem;
+  color: lemonchiffon;
+}
+
+p { 
+  font-size: 1.5rem;
+  color: lemonchiffon;
+  font-style: italic;
+}
+
+.tops { 
+  background-color: lemonchiffon;
+  text-align: center;
+}
+
+.flashy {
+  color: red;
+  font-style: italic; 
+  font-weight: bold; 
+}
+
+img { 
+  border: solid darkred 0.25rem;
+}
+
+li { 
+    list-style: none;
+}
+
+.best { 
+  font-size: 2rem;
+  color: pink; 
+}
