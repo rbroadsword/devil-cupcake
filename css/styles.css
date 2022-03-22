@@ -1,5 +1,5 @@
 body {
-  background-color: red; 
+  background: linear-gradient(red, black); 
 }
 
 .center {
@@ -8,8 +8,10 @@ body {
 }
 
 h1 { 
-  font-size: 4rem;
+  font-size: 5rem;
   color: lemonchiffon;
+  font-style: italic; 
+  text-shadow: 3px 3px rgb(74, 0, 0);
 }
 
 p { 
@@ -40,4 +42,28 @@ li {
 .best { 
   font-size: 2rem;
   color: pink; 
+}
+
+.important {
+  font-size: 4rem;
+  color: black;
+}
+
+h2, h3 {
+  font-size: 1.5rem;
+}
+
+.sin {
+  font-size: 4rem;
+  color: black;
+}
+
+
+.sidebar {
+  width: 30%; 
+  float: right; 
+  background-color: white; 
+  text-align: center; 
+  height: 45rem; 
+  border: solid darkred 0.25rem;
 }
